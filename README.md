@@ -107,7 +107,7 @@ This final phase focuses on enabling data exchange between OpenEMR and the HAPI-
 
 This architecture simulates a modern, standards-compliant hospital EHR system using open-source tools. It can include HL7 v2/v3 integration, real-time analytics, and public health reporting systems.
 
-#Link to Google Looker dashboard
+## Link to Google Looker dashboard
 https://lookerstudio.google.com/s/to_luzWaXm0 
 
 ## Author
